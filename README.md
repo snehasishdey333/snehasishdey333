@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Snehasish Dey.</h1>
 <h3 align="center">A passionate programmer from India,My skills are problem solving,creating fun projects based on latest technologies.</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
