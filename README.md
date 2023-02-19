@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehasishdey333&label=Profile%20views&color=0e75b6&style=flat" alt="snehasishdey333" /> </p>
 
-- 🌱 I’m currently learning **Blockchain software development and web 3.0**
+
 
 - 👯 I’m looking to collaborate on **Github**
 
